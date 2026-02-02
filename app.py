@@ -63,4 +63,4 @@ with gr.Blocks(title="FairFace 年龄组图像分类 WebUI") as demo:
     )
 
 if __name__ == "__main__":
-    demo.launch(server_name="127.0.0.1", server_port=7863, share=False)
+    demo.launch(server_name="127.0.0.1", server_port=7860, share=False)
